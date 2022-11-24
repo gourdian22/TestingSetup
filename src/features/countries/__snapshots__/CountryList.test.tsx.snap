@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render list of countries 1`] = `
+Array [
+  <article
+    class="sc-kDTinF gQCeoh"
+  >
+    <img
+      alt="Canada"
+      class="sc-iqseJM bliWJi"
+      src="https://flagcdn.com/w320/ca.png"
+    />
+    <div
+      class="sc-crHmcD beotCT"
+    >
+      <h3
+        class="sc-egiyK bMagzs"
+      >
+        Canada
+      </h3>
+      <ul
+        class="sc-bqiRlB cPTZjy"
+      >
+        <li
+          class="sc-ksdxgE cKINCt"
+        >
+          <b>
+            Population
+            :
+          </b>
+           
+          38 005 238
+        </li>
+        <li
+          class="sc-ksdxgE cKINCt"
+        >
+          <b>
+            Region
+            :
+          </b>
+           
+          Americas
+        </li>
+        <li
+          class="sc-ksdxgE cKINCt"
+        >
+          <b>
+            Capital
+            :
+          </b>
+           
+          Ottawa
+        </li>
+      </ul>
+    </div>
+  </article>,
+  <article
+    class="sc-kDTinF gQCeoh"
+  >
+    <img
+      alt="Mexico"
+      class="sc-iqseJM bliWJi"
+      src="https://flagcdn.com/w320/mx.png"
+    />
+    <div
+      class="sc-crHmcD beotCT"
+    >
+      <h3
+        class="sc-egiyK bMagzs"
+      >
+        Mexico
+      </h3>
+      <ul
+        class="sc-bqiRlB cPTZjy"
+      >
+        <li
+          class="sc-ksdxgE cKINCt"
+        >
+          <b>
+            Population
+            :
+          </b>
+           
+          128 932 753
+        </li>
+        <li
+          class="sc-ksdxgE cKINCt"
+        >
+          <b>
+            Region
+            :
+          </b>
+           
+          Americas
+        </li>
+        <li
+          class="sc-ksdxgE cKINCt"
+        >
+          <b>
+            Capital
+            :
+          </b>
+           
+          Mexico City
+        </li>
+      </ul>
+    </div>
+  </article>,
+  <article
+    class="sc-kDTinF gQCeoh"
+  >
+    <img
+      alt="United States of America"
+      class="sc-iqseJM bliWJi"
+      src="https://flagcdn.com/w320/us.png"
+    />
+    <div
+      class="sc-crHmcD beotCT"
+    >
+      <h3
+        class="sc-egiyK bMagzs"
+      >
+        United States of America
+      </h3>
+      <ul
+        class="sc-bqiRlB cPTZjy"
+      >
+        <li
+          class="sc-ksdxgE cKINCt"
+        >
+          <b>
+            Population
+            :
+          </b>
+           
+          329 484 123
+        </li>
+        <li
+          class="sc-ksdxgE cKINCt"
+        >
+          <b>
+            Region
+            :
+          </b>
+           
+          Americas
+        </li>
+        <li
+          class="sc-ksdxgE cKINCt"
+        >
+          <b>
+            Capital
+            :
+          </b>
+           
+          Washington, D.C.
+        </li>
+      </ul>
+    </div>
+  </article>,
+]
+`;
